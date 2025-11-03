@@ -37,7 +37,4 @@ Install directly from GitHub:
 
 ```bash
 gemini extensions install https://github.com/wenrolland/sumcontext-en
-
-
-
-
+```

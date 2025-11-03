@@ -1,6 +1,6 @@
 # sumcontext
 ## Version Française
-## Aperçu
+### Aperçu
 
 Après de longues minutes, ou même heures, de conversation avec Gemini, il est probable que vous ayez besoin de faire le point sur tout ce qui a été dit. La commande `/sumcontext-fr` est une commande personnalisée qui permet de générer un résumé structuré de la conversation.
 
@@ -20,7 +20,7 @@ gemini extensions install https://github.com/wenrolland/sumcontext-fr
 ```
 ---
 ## English Version
-## Overview
+### Overview
 
 After long minutes, or even hours, of conversation with Gemini, you may need to take stock of everything that has been said. The `/sumcontext-en` command is a custom command that allows you to generate a structured summary of the conversation.
 
@@ -37,6 +37,7 @@ Install directly from GitHub:
 
 ```bash
 gemini extensions install https://github.com/wenrolland/sumcontext-en
+
 
 
 

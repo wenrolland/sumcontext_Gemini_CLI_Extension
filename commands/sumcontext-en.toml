@@ -1,3 +1,4 @@
+description = "Create a clear, precise and structured summary from the current discussion."
 prompt = """
 ## Role
 
@@ -122,3 +123,4 @@ The final text must:
 2. Provide the reader with a quick understanding of the **essential points, decisions and implications**.
 3. Remain faithful to the actual content of the discussion.
 """
+

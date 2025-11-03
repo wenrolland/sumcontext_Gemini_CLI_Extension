@@ -1,3 +1,4 @@
+description = "Créer un sommaire structuré, clair et précis à partir de la discussion courante."
 prompt = """
 ## Rôle
 
@@ -122,3 +123,4 @@ Le texte final doit :
 2. Donner au lecteur une compréhension rapide des **points essentiels, décisions et implications**.
 3. Rester fidèle au contenu réel de la discussion.
 """
+

@@ -1,4 +1,6 @@
-# Version Française - sumcontext
+# sumcontext
+
+## Version Française
 
 ## Aperçu
 
@@ -19,7 +21,7 @@ Installer directement depuis GitHub :
 gemini extensions install https://github.com/wenrolland/sumcontext-fr
 ```
 
-# English Version - sumcontext
+## English Version
 
 ## Overview
 
@@ -38,3 +40,4 @@ Install directly from GitHub:
 
 ```bash
 gemini extensions install https://github.com/wenrolland/sumcontext-en
+

@@ -11,13 +11,20 @@ Rien de plus simple !
 - Après une conversation bien remplie d'informations, entrez la commande `/sumcontext-fr`.
 - Le LLM générera un sommaire du contexte depuis le début de la conversation ou jusqu'au plus récent sommaire.
 
+Vous pouvez également ajouter des instructions à la fin de la commande, comme ceci :
+```bash
+/sumcontext-fr N'utilise pas de puces, rédige plutôt du texte.
+```
+Gemini CLI vous demandera probablement de confirmer des instructions contradictoires. Il vous suffit de valider ce que vous souhaitez et de poursuivre.
+
 ## Installation pour Gemini CLI
 
 Installer directement depuis GitHub :
 
 ```bash
-gemini extensions install https://github.com/wenrolland/sumcontext-fr
+gemini extensions install https://github.com/wenrolland/sumcontext_Gemini_CLI_Extension.git
 ```
+
 ---
 ## English Version
 ### Overview
@@ -31,10 +38,17 @@ Nothing could be simpler!
 - After a conversation filled with information, enter the `/sumcontext-en` command.
 - The LLM will generate a context summary from the beginning of the conversation or up to the most recent summary.
 
+You can also add instructions at the end of the command like this:
+
+```bash
+/sumcontext-en Don't use bullet points, write a text instead.
+```
+Gemini CLI Will probably ask you to confirm contradictory instructions. Simply validate what you want and proceed.
+
 ## Installation for Gemini CLI
 
 Install directly from GitHub:
 
 ```bash
-gemini extensions install https://github.com/wenrolland/sumcontext-en
+gemini extensions install https://github.com/wenrolland/sumcontext_Gemini_CLI_Extension.git
 ```

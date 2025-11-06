@@ -43,7 +43,7 @@ You can also add instructions at the end of the command like this:
 ```bash
 /sumcontext-en Don't use bullet points, write a text instead.
 ```
-Gemini CLI Will probably ask you to confirm contradictory instructions. Simply validate what you want and proceed.
+Gemini CLI will probably ask you to confirm contradictory instructions. Simply validate what you want and proceed.
 
 ## Installation for Gemini CLI
 
@@ -52,3 +52,4 @@ Install directly from GitHub:
 ```bash
 gemini extensions install https://github.com/wenrolland/sumcontext_Gemini_CLI_Extension.git
 ```
+
